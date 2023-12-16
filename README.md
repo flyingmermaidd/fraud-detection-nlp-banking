@@ -3,6 +3,10 @@
 ## Overview
 This repository contains the code for a fraud detection project that combines machine learning and natural language processing (NLP) techniques. The project replicates and extends a research paper, aiming to improve fraud detection accuracy.
 
+Fraud detection is crucial in online and mobile banking due to the growing number of daily transactions. Manual monitoring is no longer practical, leading to the reliance on automated systems to promptly identify potential fraud. While traditional rule-based methods have limitations, machine and deep learning approaches offer flexibility but often require complex setup.
+
+Unlike traditional methods that depend on rules or complex setups, this approach uses Natural Language Processing (NLP)-based features. This simplifies the process, promising more efficient and privacy-conscious fraud detection in online and mobile banking transactions.
+
 ## Prerequisites
 Before running the code, ensure you have the following prerequisites installed:
 
