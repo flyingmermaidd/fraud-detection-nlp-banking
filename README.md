@@ -30,7 +30,8 @@ Before running the code, ensure you have the following prerequisites installed:
 ## Instructions for Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fraud-detection-nlp.git
+   git clone https://github.com/your-username/Rimi_Mondal_FinalProject_MLP.git
+
 2. **Extract the Project Files:**
 
  - Extract the contents of `Fraud Detection with Natural Language Processing.rar` to a directory of your choice.
