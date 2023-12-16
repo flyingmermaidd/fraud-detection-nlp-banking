@@ -17,7 +17,7 @@ Before running the code, ensure you have the following prerequisites installed:
 
 ## Repository Contents
 - `Fraud Detection with Natural Language Processing.rar`: Compressed archive containing the credit card transaction data in a pickled Pandas DataFrame.
-- `My_Contribution_in_FraudNLP.ipynb`: Jupyter Notebook detailing individual contributions to the project.
+- `My_Contribution_in_FraudNLP.ipynb`: Jupyter Notebook detailing my contributions to the project.
 - `Rimi_Mondal_FinalProject_Report.ipynb`: Jupyter Notebook presenting the final project report.
 - `Rimi_Mondal_FinalProject_Report.pdf`: PDF version of the final project report for easy reference.
 - `creditmerged.csv`: Additional dataset created by merging data from different folders, used for testing and analysis.
