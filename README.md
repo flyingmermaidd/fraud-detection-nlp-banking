@@ -1,4 +1,4 @@
-# Fraud Detection with NLP - Machine Learning Programming Final Project
+# Fraud Detection with NLP - Machine Learning Programming
 
 ## Overview
 This repository contains the code for a fraud detection project that combines machine learning and natural language processing (NLP) techniques. The project replicates and extends a research paper, aiming to improve fraud detection accuracy.
